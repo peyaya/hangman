@@ -7,7 +7,7 @@
 <br><br>
 <h1>Hangman</h1>
 <body onLoad="reset(); return true;">
-
+<center>
 	<br />
 	<br />
 	
@@ -218,6 +218,6 @@
 	
 
 </script>
-
+</center>
 </body>
 </html>
